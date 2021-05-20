@@ -5,9 +5,7 @@ In this project, the Pacman agent finds paths through his maze world, both to re
 The only files I edited are:
 
     search.py	
-,where all of the search algorithms reside
-
-and
+, where all of the search algorithms reside and
 
     searchAgents.py	
-,where all of the search-based agents reside.
+, where all of the search-based agents reside.
